@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vince Ted Matthew D. Chua</h1>
 <h3 align="center">A jovial-enthusiastic developer.</h3>
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+![PROG_](https://github.com/VinceTedChua/VinceTedChua/assets/142372312/c63ef47b-0ec2-4072-b8e8-f71442dd2727)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vincetedchua&label=Profile%20views&color=0e75b6&style=flat" alt="vincetedchua" /> </p>
+
+- 📚 ## Education: BS Computer Science New Era University 2021 - Present
 
 - 🌱 I’m currently learning **Java, HTML and Python**
 
@@ -11,6 +13,24 @@
 - 📫 How to reach me **vtmdomingochua@gmail.com**
 
 - ⚡ Fun fact **I love photography 📸**
+
+- 💼 Work Experiences Associate at Dunkin Donuts Dates: March 18, 2019-August 12, 2022
+![WORK_EXPERIENCE_CHUA_DUNKIN](https://github.com/VinceTedChua/VinceTedChua/assets/142372312/5f31e276-cc75-4070-b88f-bf38fa38f585)
+
+- 🎓 Certification/s  Business Analytics with Excel Issued September 7th, 2023
+- 🎓 CICS (Introduction to Data Visualization) -Day 3 Issued: November 25th, 2022
+- 🎓 Oracle Cloud Data Management 2022 Foundations Certified Associate  Issued: November 23th, 2022
+- 🎓 CICS (Version Control - Tracking and Managing Changes to Software Code) -Day 2  Issued: November 18th, 2022
+- 🎓 Oracle Cloud Infrastructure 2022 Certified foundations Associate Issued: November 13th, 2022
+- 🎓 CICS (Tech 101: Basic Written Communication) -Day 1 Issued: November 11th, 2022
+- 🎓 NSTP (National Service Training Program I/II) Leadership Awardee Issued: June 25th, 2022
+- 🎓 NSTP (National Service Training Program I/II) Certificate of Recognition Issued: June 25th, 2022
+- 🎓 Speech Arts Contest (Elimination Rounds: Interpretative Reading) Issued: February 28th, 2022
+- 🎓 Speech Arts Contest (Preliminary Rounds: Manuscript Reading) Issued: February 28th, 2022
+
+- 💻 Seminars
+- Attended Financial Aid Program for Scholars Issued: June 3, 2021
+- Attended Scholarship Gateway Application Issued: April 19, 2021
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
