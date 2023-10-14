@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vince Ted Matthew D. Chua</h1>
 <h3 align="center">A jovial-enthusiastic developer.</h3>
-![PROG_](https://github.com/VinceTedChua/VinceTedChua/assets/142372312/c63ef47b-0ec2-4072-b8e8-f71442dd2727)
+<img width="1073" alt="PFP MAIN" src="https://github.com/VinceTedChua/VinceTedChua/assets/142372312/9161a33c-74a9-49fe-88e5-4028b4d6600a">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vincetedchua&label=Profile%20views&color=0e75b6&style=flat" alt="vincetedchua" /> </p>
 
