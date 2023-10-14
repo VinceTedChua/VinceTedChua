@@ -10,7 +10,6 @@
 ![IMG_8295](https://github.com/VinceTedChua/VinceTedChua/assets/142372312/c3ad9eb3-af0a-4525-ac63-51900537c384)
 
 - 🌱 I’m currently learning **Java, HTML and Python**
-- 
 ![CCL111-18_1-BSCS- 2 (NON STEM Grad )_ChuaVinceTed MatthewD _OnlineActivity_01](https://github.com/VinceTedChua/VinceTedChua/assets/142372312/6e7f8912-7e6b-4d2e-97e4-cf36f3611a1c)
 
 
