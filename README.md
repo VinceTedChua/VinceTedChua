@@ -27,7 +27,8 @@
 ![WORK_EXPERIENCE_CHUA_DUNKIN](https://github.com/VinceTedChua/VinceTedChua/assets/142372312/5f31e276-cc75-4070-b88f-bf38fa38f585)
 
 - 🎓 Certification/s Cisco Data Analytics Essentials Course Issued October 7th, 2023
-<img width="1073" alt="CERT" src="https://github.com/VinceTedChua/VinceTedChua/assets/142372312/3549a1fa-4946-4002-b6be-3223f8357e2e">
+<img width="1073" alt="CERT" src="https://github.com/VinceTedChua/VinceTedChua/assets/142372312/dd82e5c9-a8d8-42ef-ae2c-3848dce8a0fd">
+
 
 - 🎓 Business Analytics with Excel Issued September 7th, 2023
 <img width="867" alt="Screenshot 2023-10-14 at 4 29 46 PM" src="https://github.com/VinceTedChua/VinceTedChua/assets/142372312/385abcd4-b459-4429-8017-e07e5bd9936f">
