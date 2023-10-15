@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vince Ted Matthew D. Chua</h1>
+<h1 align="center">Hi, I'm Vince 👋🏼👨🏻‍💻 </h1>
 <h3 align="center">A jovial-enthusiastic developer.</h3>
 <img width="1094" alt="3RDPFP" src="https://github.com/VinceTedChua/VinceTedChua/assets/142372312/04ac4765-8697-4ce2-bed9-5125fca59f6f">
 
