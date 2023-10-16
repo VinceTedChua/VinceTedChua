@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vincetedchua&label=Profile%20views&color=0e75b6&style=flat" alt="vincetedchua" /> </p>
 
-- 📚 ## Education: BS Computer Science New Era University 2021 - Present
+- 📚 Education: BS Computer Science New Era University 2021 - Present
 <img width="577" alt="Screenshot 2023-10-14 at 4 38 25 PM" src="https://github.com/VinceTedChua/VinceTedChua/assets/142372312/4ea5daf7-e3cd-4b54-9bc0-058a2861d9e7">
 
 
@@ -13,7 +13,7 @@
 ![CCL111-18_1-BSCS- 2 (NON STEM Grad )_ChuaVinceTed MatthewD _OnlineActivity_01](https://github.com/VinceTedChua/VinceTedChua/assets/142372312/6e7f8912-7e6b-4d2e-97e4-cf36f3611a1c)
 
 
-- 👨‍💻 All of my projects are available at [located in my repository](located in my repository)
+- 👨‍💻 All of my projects are available at [located in my repository]
 <img width="867" alt="Assigns" src="https://github.com/VinceTedChua/VinceTedChua/assets/142372312/ef473512-088d-4e8d-98d1-42f3bb5047ff">
 
 - 📫 How to reach me **vtmdomingochua@gmail.com**
