@@ -1,20 +1,61 @@
-<h1 align="center">Hi, I'm Vince 👋🏼👨🏻‍💻 </h1>
+<h1 align="center">Hi, I'm Vince Ted Matthew D. Chua 👋🏼👨🏻‍💻 </h1>
+<h2 align="center">Contact +639762948857 </h2>
+<h2 align="center">- 📚 Education: BS Computer Science New Era University 2021 - Present
+<img width="577" alt="Screenshot 2023-10-14 at 4 38 25 PM" src="https://github.com/VinceTedChua/VinceTedChua/assets/142372312/4ea5daf7-e3cd-4b54-9bc0-058a2861d9e7"> </h2>
+<h2 align="center">Certification/s: CISCO, NEU Webinar, Oracle Kindly Refer below to see more... </h2>
+<h3 align="center">Tech Achievements:
+
+
+- 👨‍💻 All of my projects are available at [located in my repository]
+<img width="867" alt="Assigns" src="https://github.com/VinceTedChua/VinceTedChua/assets/142372312/ef473512-088d-4e8d-98d1-42f3bb5047ff">
+
+  Top 3 Best POWERBI Projects
+1. PowerBI Soda Report: https://app.powerbi.com/view?r=eyJrIjoiNDQwYTc0ZDItNmNlNC00M2IzLTkwZmMtMmNmZjQyZDdhZGYxIiwidCI6ImNjM2MwZDdjLTNjOGItNGEyMS04ZDJiLWI1MTcxNDZkMGQ4ZSIsImMiOjZ9
+2. PowerBI Snack Report: https://app.powerbi.com/view?r=eyJrIjoiNDQwYTc0ZDItNmNlNC00M2IzLTkwZmMtMmNmZjQyZDdhZGYxIiwidCI6ImNjM2MwZDdjLTNjOGItNGEyMS04ZDJiLWI1MTcxNDZkMGQ4ZSIsImMiOjZ9
+3. PowerBI Status Report: https://app.fabric.microsoft.com/view?r=eyJrIjoiNTYyZWNmOWEtOTMxOC00ZGY5LWI3YTQtMDgyZjA5Yzg5MGMzIiwidCI6ImNjM2MwZDdjLTNjOGItNGEyMS04ZDJiLWI1MTcxNDZkMGQ4ZSIsImMiOjZ9
+
+  Top 5 Best SOFTWARE Engineering Design Pattern
+1.  State Pattern https://github.com/VinceTedChua/statePattern.git
+2.  Builder Pattern https://github.com/VinceTedChua/builderPattern.git
+3.  Strategy Pattern https://github.com/VinceTedChua/strategyPattern.git
+4.  Visitor Pattern https://github.com/VinceTedChua/visitorPattern2.git
+5.  Solid Principles Pattern https://github.com/VinceTedChua/solidDesignPrinciples.git
+
+Other accomplishments you achieve in other courses
+  Arts and Appreciation: Script Writing / Creativity
+  Social Science: Presentation and Play 
+  NSTP: Plants and Preservation of Nature
+
+Skill Set\s
+![CCL111-18_1-BSCS- 2 (NON STEM Grad )_ChuaVinceTed MatthewD _OnlineActivity_01](https://github.com/VinceTedChua/VinceTedChua/assets/142372312/6e7f8912-7e6b-4d2e-97e4-cf36f3611a1c)
+🌱Data Visualization Tools :  
+1. Pentaho
+2. PowerBI Desktop
+3. Tableau Public
+   
+🌱Programming Languages: 
+1. Java
+2. BootStrap
+3. HTML
+4. CSS
+   
+🌱DBMS
+1. DB2
+   
+🌱Developer Tools
+1. Figma
+2. Lucidchart
+3. IntelliJ
+
+
+</h3>
 <h3 align="center">Student Software Engineer Year [2021-Present].</h3>
+
 <img width="1094" alt="3RDPFP" src="https://github.com/VinceTedChua/VinceTedChua/assets/142372312/04ac4765-8697-4ce2-bed9-5125fca59f6f">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vincetedchua&label=Profile%20views&color=0e75b6&style=flat" alt="vincetedchua" /> </p>
 
-- 📚 Education: BS Computer Science New Era University 2021 - Present
-<img width="577" alt="Screenshot 2023-10-14 at 4 38 25 PM" src="https://github.com/VinceTedChua/VinceTedChua/assets/142372312/4ea5daf7-e3cd-4b54-9bc0-058a2861d9e7">
-
-
-- 🌱 I’m currently learning **Java, HTML and Python**
-![CCL111-18_1-BSCS- 2 (NON STEM Grad )_ChuaVinceTed MatthewD _OnlineActivity_01](https://github.com/VinceTedChua/VinceTedChua/assets/142372312/6e7f8912-7e6b-4d2e-97e4-cf36f3611a1c)
-
-
-- 👨‍💻 All of my projects are available at [located in my repository]
-<img width="867" alt="Assigns" src="https://github.com/VinceTedChua/VinceTedChua/assets/142372312/ef473512-088d-4e8d-98d1-42f3bb5047ff">
 
 - 📫 How to reach me **vtmdomingochua@gmail.com**
 <img width="296" alt="Email" src="https://github.com/VinceTedChua/VinceTedChua/assets/142372312/3a2656d0-16b5-4a7f-b6ad-8dc3a5e06d4e">
