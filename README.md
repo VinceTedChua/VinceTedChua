@@ -74,7 +74,7 @@ Link: https://drive.google.com/file/d/16MelIA-GQ3O8rAtIMmfnwc_e-xcM4XBR/view?usp
 <img width="867" alt="Assigns" src="https://github.com/VinceTedChua/VinceTedChua/assets/142372312/ef473512-088d-4e8d-98d1-42f3bb5047ff">
 
   Top 3 Best POWERBI Projects
-1. PowerBI Soda Report: https://app.powerbi.com/view?r=eyJrIjoiNDQwYTc0ZDItNmNlNC00M2IzLTkwZmMtMmNmZjQyZDdhZGYxIiwidCI6ImNjM2MwZDdjLTNjOGItNGEyMS04ZDJiLWI1MTcxNDZkMGQ4ZSIsImMiOjZ9
+1. PowerBI Soda Report: https://app.powerbi.com/view?r=eyJrIjoiZTg4NDZlMTQtMTMxMS00MGM1LWIwYjgtMDJlZDI4ZGVjZmM5IiwidCI6ImNjM2MwZDdjLTNjOGItNGEyMS04ZDJiLWI1MTcxNDZkMGQ4ZSIsImMiOjZ9
 2. PowerBI Snack Report: https://app.powerbi.com/view?r=eyJrIjoiNDQwYTc0ZDItNmNlNC00M2IzLTkwZmMtMmNmZjQyZDdhZGYxIiwidCI6ImNjM2MwZDdjLTNjOGItNGEyMS04ZDJiLWI1MTcxNDZkMGQ4ZSIsImMiOjZ9
 3. PowerBI Status Report: https://app.fabric.microsoft.com/view?r=eyJrIjoiNTYyZWNmOWEtOTMxOC00ZGY5LWI3YTQtMDgyZjA5Yzg5MGMzIiwidCI6ImNjM2MwZDdjLTNjOGItNGEyMS04ZDJiLWI1MTcxNDZkMGQ4ZSIsImMiOjZ9
 
