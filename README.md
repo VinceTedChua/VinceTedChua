@@ -3,7 +3,7 @@ Student Software Engineer Year [2021-Present]
 
 ![Chua_Vince_Ted](https://github.com/user-attachments/assets/325793d5-8fd1-4911-8e7d-42ac820a1e1e)
 
-Email: vince.chua@neu.edu.ph 
+<p> Email: vince.chua@neu.edu.ph </p>
 <p> Contact: +639762948857 </p>
 
 <h2 align="center">Education: BS Computer Science New Era University 2021 - Present
@@ -12,9 +12,9 @@ Email: vince.chua@neu.edu.ph
 💼 Work Experiences Associate at Dunkin Donuts Dates: March 18, 2019-August 12, 2022
 
 
-<h1 🎓 Certification/s Cisco Data Analytics Essentials Course Issued October 7th, 2023 </h1>
+<p> 🎓 Certification/s Cisco Data Analytics Essentials Course Issued October 7th, 2023 </p>
 
-<h1 🎓 Business Analytics with Excel Issued September 7th, 2023 </h1>
+<p> 🎓 Business Analytics with Excel Issued September 7th, 2023 </p>
     <h1 Link: https://simpli-web.app.link/e/bZpUXV1BTCb </h1>
      
 <h1 🎓 CICS (Introduction to Data Visualization) -Day 3 Issued: November 25th, 2022
