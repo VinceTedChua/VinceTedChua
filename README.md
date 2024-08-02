@@ -6,6 +6,21 @@ Student Software Engineer Year [2021-Present]
 <p> 📫 How To Reach Me: vince.chua@neu.edu.ph </p>
 <p> 📱Contact: +639762948857 </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/vince ted matthew chua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vince ted matthew chua" height="30" width="40" /></a>
+<a href="https://instagram.com/devinci_delivers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devinci_delivers" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vincetedchua&show_icons=true&locale=en&layout=compact" alt="vincetedchua" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vincetedchua&show_icons=true&locale=en" alt="vincetedchua" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vincetedchua&" alt="vincetedchua" /></p>
+
 ## Education: BS Computer Science New Era University 2021 - Present 
 ## Certification/s: CISCO, NEU Webinar, Oracle Kindly Refer below to see more... 
 
@@ -92,18 +107,3 @@ Student Software Engineer Year [2021-Present]
 2. Lucidchart
 3. IntelliJ
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/vince ted matthew chua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vince ted matthew chua" height="30" width="40" /></a>
-<a href="https://instagram.com/devinci_delivers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devinci_delivers" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vincetedchua&show_icons=true&locale=en&layout=compact" alt="vincetedchua" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vincetedchua&show_icons=true&locale=en" alt="vincetedchua" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vincetedchua&" alt="vincetedchua" /></p>
