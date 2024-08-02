@@ -12,9 +12,11 @@
 💼 Work Experiences Associate at Dunkin Donuts Dates: March 18, 2019-August 12, 2022
 
 
-<h1 🎓 Certification/s Cisco Data Analytics Essentials Course Issued October 7th, 2023
-🎓 Business Analytics with Excel Issued September 7th, 2023 </h1>
-     Link: https://simpli-web.app.link/e/bZpUXV1BTCb
+<h1 🎓 Certification/s Cisco Data Analytics Essentials Course Issued October 7th, 2023 </h1>
+
+<h1 🎓 Business Analytics with Excel Issued September 7th, 2023 </h1>
+    <h1 Link: https://simpli-web.app.link/e/bZpUXV1BTCb </h1>
+     
 <h1 🎓 CICS (Introduction to Data Visualization) -Day 3 Issued: November 25th, 2022
      Link: https://drive.google.com/file/d/1kBX3guMOerx7b6aJtO10D_KKV8hpYgjh/view?usp=sharing </h1>
 <h2 🎓 Oracle Cloud Data Management 2022 Foundations Certified Associate  Issued: November 23th, 2022
