@@ -1,5 +1,11 @@
-<h1 align="center">Name: Hi, I'm Vince Ted Matthew D. Chua 👋🏼👨🏻‍💻 </h1>
-<h2 align="center">Contact: +639762948857 </h2>
+## Hi, I'm Vince Ted Matthew D. Chua 👋🏼
+<h3 align="center">Student Software Engineer Year [2021-Present].</h3>
+
+<img width="1094" alt="3RDPFP" src="https://github.com/VinceTedChua/VinceTedChua/assets/142372312/04ac4765-8697-4ce2-bed9-5125fca59f6f">
+
+Email: vince.chua@neu.edu.ph
+Contact: +639762948857 </h2>
+
 <h2 align="center">Education: BS Computer Science New Era University 2021 - Present
 <img width="577" alt="Screenshot 2023-10-14 at 4 38 25 PM" src="https://github.com/VinceTedChua/VinceTedChua/assets/142372312/4ea5daf7-e3cd-4b54-9bc0-058a2861d9e7"> </h2>
 <h2 align="center">Certification/s: CISCO, NEU Webinar, Oracle Kindly Refer below to see more...
