@@ -1,7 +1,7 @@
 ## Hi, I'm Vince Ted Matthew D. Chua 👋🏼
 <h3 align="center">Student Software Engineer Year [2021-Present].</h3>
 
-<img width="1094" alt="3RDPFP" src="https://github.com/VinceTedChua/VinceTedChua/assets/142372312/04ac4765-8697-4ce2-bed9-5125fca59f6f">
+![Chua](https://github.com/user-attachments/assets/1ba41c52-229d-4e52-b854-3e0cdbc1b3de)
 
 <h2 Email: vince.chua@neu.edu.ph </h2>
 <h2 Contact: +639762948857 </h2>
