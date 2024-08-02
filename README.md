@@ -7,7 +7,7 @@ Student Software Engineer Year [2021-Present]
 <p> 📱Contact: +639762948857 </p>
 
 <h2 Education: BS Computer Science New Era University 2021 - Present </h2>
-<h2 Certification/s: CISCO, NEU Webinar, Oracle Kindly Refer below to see more... </h2>
+<h1 Certification/s: CISCO, NEU Webinar, Oracle Kindly Refer below to see more... </h1>
 
 <p> 💼 Work Experiences Associate at Dunkin Donuts Dates: March 18, 2019-August 12, 2022 </p>
 <p> 🎓 Certification/s Cisco Data Analytics Essentials Course Issued October 7th, 2023 </p>
@@ -41,7 +41,6 @@ Student Software Engineer Year [2021-Present]
 
 
 <h2 Tech Achievements:</h2>
-
 
 👨‍💻 All of my projects are available at [located in my repository]
 <img width="867" alt="Assigns" src="https://github.com/VinceTedChua/VinceTedChua/assets/142372312/ef473512-088d-4e8d-98d1-42f3bb5047ff">
