@@ -13,31 +13,31 @@ Student Software Engineer Year [2021-Present]
 <p> 🎓 Certification/s Cisco Data Analytics Essentials Course Issued October 7th, 2023 </p>
 <p> 🎓 Business Analytics with Excel Issued September 7th, 2023 </p>
     <p>Link: https://simpli-web.app.link/e/bZpUXV1BTCb </p> 
-<p> 🎓 CICS (Introduction to Data Visualization) -Day 3 Issued: November 25th, 2022
-     Link: https://drive.google.com/file/d/1kBX3guMOerx7b6aJtO10D_KKV8hpYgjh/view?usp=sharing </p>
-<p> 🎓 Oracle Cloud Data Management 2022 Foundations Certified Associate  Issued: November 23th, 2022
-     Link: https://catalog-education.oracle.com/pls/certview/sharebadge?id=65A9432863C18C26269D1E6E11CAD20159910CBCD4D3D64597F7DB627310C39B </p>
-<p>🎓 CICS (Version Control - Tracking and Managing Changes to Software Code) -Day 2  Issued: November 18th, 2022
-     Link: https://drive.google.com/file/d/1yN0uSllazH5YKNb2TakQzYXR1TyaWor8/view?usp=sharing  </p>
-<p>🎓 Oracle Cloud Infrastructure 2022 Certified foundations Associate Issued: November 13th, 2022
-     Link: https://catalog-education.oracle.com/pls/certview/sharebadge?id=8F21E9D494F5332C6E0CB5CB4C608B2F0E6BBF76FFD03AF442C124510807BDB9  </p>
-<p>🎓 CICS (Tech 101: Basic Written Communication) -Day 1 Issued: November 11th, 2022
-     Link: https://drive.google.com/file/d/1VKj0xL5BSWP0yY9aV8LlS2KZ7SyZGCUd/view?usp=sharing  </p>
-<p>🎓 NSTP (National Service Training Program I/II) Leadership Awardee Issued: June 25th, 2022
-     Link: https://drive.google.com/file/d/1dMyAjYNU_Zeskw6krLaPLLf1_bKy3DnC/view?usp=sharing  </p>
-<p>🎓 NSTP (National Service Training Program I/II) Certificate of Recognition Issued: June 25th, 2022
-     Link: https://drive.google.com/file/d/1HGjkPPCZpEXOQP1uSj4suPcy2xeHyzXp/view?usp=sharing  </p>
-<p>🎓 Speech Arts Contest (Elimination Rounds: Interpretative Reading) Issued: February 28th, 2022
-     Link: https://drive.google.com/file/d/1-9i2WC_yc4-EpiAoeYfsuXcm7wgHbp7_/view?usp=sharing  </p>
-<p>🎓 Speech Arts Contest (Preliminary Rounds: Manuscript Reading) Issued: February 28th, 2022
-     Link: https://drive.google.com/file/d/16MelIA-GQ3O8rAtIMmfnwc_e-xcM4XBR/view?usp=sharing  </p>
+<p> 🎓 CICS (Introduction to Data Visualization) -Day 3 Issued: November 25th, 2022</p>
+    <p>Link: https://drive.google.com/file/d/1kBX3guMOerx7b6aJtO10D_KKV8hpYgjh/view?usp=sharing </p>
+<p> 🎓 Oracle Cloud Data Management 2022 Foundations Certified Associate  Issued: November 23th, 2022</p>
+    <p>Link: https://catalog-education.oracle.com/pls/certview/sharebadge?id=65A9432863C18C26269D1E6E11CAD20159910CBCD4D3D64597F7DB627310C39B </p>
+<p>🎓 CICS (Version Control - Tracking and Managing Changes to Software Code) -Day 2  Issued: November 18th, 2022</p>
+    <p>Link: https://drive.google.com/file/d/1yN0uSllazH5YKNb2TakQzYXR1TyaWor8/view?usp=sharing  </p>
+<p>🎓 Oracle Cloud Infrastructure 2022 Certified foundations Associate Issued: November 13th, 2022</p>
+    <p>Link: https://catalog-education.oracle.com/pls/certview/sharebadge?id=8F21E9D494F5332C6E0CB5CB4C608B2F0E6BBF76FFD03AF442C124510807BDB9  </p>
+<p>🎓 CICS (Tech 101: Basic Written Communication) -Day 1 Issued: November 11th, 2022</p>
+    <p>Link: https://drive.google.com/file/d/1VKj0xL5BSWP0yY9aV8LlS2KZ7SyZGCUd/view?usp=sharing  </p>
+<p>🎓 NSTP (National Service Training Program I/II) Leadership Awardee Issued: June 25th, 2022</p>
+    <p>Link: https://drive.google.com/file/d/1dMyAjYNU_Zeskw6krLaPLLf1_bKy3DnC/view?usp=sharing  </p>
+<p>🎓 NSTP (National Service Training Program I/II) Certificate of Recognition Issued: June 25th, 2022</p>
+    <p>Link: https://drive.google.com/file/d/1HGjkPPCZpEXOQP1uSj4suPcy2xeHyzXp/view?usp=sharing  </p>
+<p>🎓 Speech Arts Contest (Elimination Rounds: Interpretative Reading) Issued: February 28th, 2022</p>
+    <p>Link: https://drive.google.com/file/d/1-9i2WC_yc4-EpiAoeYfsuXcm7wgHbp7_/view?usp=sharing  </p>
+<p>🎓 Speech Arts Contest (Preliminary Rounds: Manuscript Reading) Issued: February 28th, 2022</p>
+    <p>Link: https://drive.google.com/file/d/16MelIA-GQ3O8rAtIMmfnwc_e-xcM4XBR/view?usp=sharing  </p>
 
 <h2 💻 Seminars </h2>
-   <p> Attended Financial Aid Program for Scholars Issued: June 3, 2021
-     Link: https://drive.google.com/file/d/1SbQU4v_I5MgEOsHhckb75lkU_gI2sAAS/view?usp=sharing  </p>
+   <p> Attended Financial Aid Program for Scholars Issued: June 3, 2021</p>
+     <p>Link: https://drive.google.com/file/d/1SbQU4v_I5MgEOsHhckb75lkU_gI2sAAS/view?usp=sharing  </p>
 
    <p> Attended Scholarship Gateway Application Issued: April 19, 2021
-     Link: https://drive.google.com/file/d/1-VS405QNVXxJwJA_U_dknd99YhQld_Ie/view?usp=sharing  </p>
+     <p>Link: https://drive.google.com/file/d/1-VS405QNVXxJwJA_U_dknd99YhQld_Ie/view?usp=sharing  </p>
 
 
 <h2 Tech Achievements:</h2>
