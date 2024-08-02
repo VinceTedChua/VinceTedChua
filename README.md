@@ -32,7 +32,7 @@ Student Software Engineer Year [2021-Present]
 <p>🎓 Speech Arts Contest (Preliminary Rounds: Manuscript Reading) Issued: February 28th, 2022</p>
     <p>Link: https://drive.google.com/file/d/16MelIA-GQ3O8rAtIMmfnwc_e-xcM4XBR/view?usp=sharing  </p>
 
-<h2 💻 Seminars </h2>
+## 💻 Seminars
    <p> Attended Financial Aid Program for Scholars Issued: June 3, 2021</p>
      <p>Link: https://drive.google.com/file/d/1SbQU4v_I5MgEOsHhckb75lkU_gI2sAAS/view?usp=sharing  </p>
 
@@ -40,8 +40,7 @@ Student Software Engineer Year [2021-Present]
      <p>Link: https://drive.google.com/file/d/1-VS405QNVXxJwJA_U_dknd99YhQld_Ie/view?usp=sharing  </p>
 
 
-<h2 Tech Achievements:</h2>
-
+## Tech Achievements:
 👨‍💻 All of my projects are available at [located in my repository]
 <img width="867" alt="Assigns" src="https://github.com/VinceTedChua/VinceTedChua/assets/142372312/ef473512-088d-4e8d-98d1-42f3bb5047ff">
 
