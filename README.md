@@ -9,7 +9,7 @@ Student Software Engineer Year [2021-Present]
 ## Education: BS Computer Science New Era University 2021 - Present 
 ## Certification/s: CISCO, NEU Webinar, Oracle Kindly Refer below to see more... 
 
-## 💼 Work Experiences Associate at Dunkin Donuts Dates: March 18, 2019-August 12, 2022 
+💼 Work Experiences Associate at Dunkin Donuts Dates: March 18, 2019-August 12, 2022 
 <p>🎓 Certification/s Cisco Data Analytics Essentials Course Issued October 7th, 2023 </p> 
 <p>🎓 Business Analytics with Excel Issued September 7th, 2023 </p> 
     <p>Link: https://simpli-web.app.link/e/bZpUXV1BTCb </p> 
