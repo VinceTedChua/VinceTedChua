@@ -29,13 +29,9 @@ Student Software Engineer Year [2021-Present]
 <p>🎓 Certification/s Cisco Data Analytics Essentials Course</p> 
     <p>Issued: October 7th, 2023 </p> 
 <p>🎓 Business Analytics with Excel</p>
-    <p>Issued: September 7th, 2023 </p> 
 
-   # My Project
-
-Welcome to my project! Here are some useful links:
-
-- [Check out my link](https://simpli-web.app.link/e/bZpUXV1BTCb)
+  🎓 [Business Analytics with Excel](https://simpli-web.app.link/e/bZpUXV1BTCb)
+   <p>Issued: September 7th, 2023 </p> 
 
 Feel free to explore and give feedback.
 
