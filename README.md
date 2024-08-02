@@ -104,7 +104,7 @@ Student Software Engineer Year [2021-Present]
 1. DB2
    
 ## 🌱Developer Tools
-1. Figma
+ * Figma
 2. Lucidchart
 3. IntelliJ
 
