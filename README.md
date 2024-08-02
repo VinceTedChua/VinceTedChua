@@ -55,7 +55,6 @@ Student Software Engineer Year [2021-Present]
 
 ## Tech Achievements:
 👨‍💻 All of my projects are available at [located in my repository]
-<img width="867" alt="Assigns" src="https://github.com/VinceTedChua/VinceTedChua/assets/142372312/ef473512-088d-4e8d-98d1-42f3bb5047ff">
 
   Top 3 Best POWERBI Projects
 <p> 1. PowerBI Soda Report: https://app.powerbi.com/view?r=eyJrIjoiZTg4NDZlMTQtMTMxMS00MGM1LWIwYjgtMDJlZDI4ZGVjZmM5IiwidCI6ImNjM2MwZDdjLTNjOGItNGEyMS04ZDJiLWI1MTcxNDZkMGQ4ZSIsImMiOjZ9  </p>
