@@ -89,22 +89,22 @@ Student Software Engineer Year [2021-Present]
    <p> Social Science: Presentation and Play    </p>
    <p> NSTP: Plants and Preservation of Nature  </p>
 
-## 🌱Data Visualization Tools :  
-1. Pentaho
-2. PowerBI Desktop
-3. Tableau Public
+## 📊Data Visualization Tools :  
+ * Pentaho
+ * PowerBI Desktop
+ * Tableau Public
    
-## 🌱Programming Languages: 
-1. Java
-2. BootStrap
-3. HTML
-4. CSS
+## 💻Programming Languages: 
+ * Java
+ * BootStrap
+ * HTML
+
    
-## 🌱DBMS
-1. DB2
+## 📉DBMS
+ * DB2
    
-## 🌱Developer Tools
+## 👨🏻‍💻Developer Tools
  * Figma
-2. Lucidchart
-3. IntelliJ
+ * Lucidchart
+ * IntelliJ
 
