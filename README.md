@@ -17,9 +17,10 @@ Student Software Engineer Year [2021-Present]
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vincetedchua&show_icons=true&locale=en&layout=compact" alt="vincetedchua" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vincetedchua&show_icons=true&locale=en" alt="vincetedchua" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vincetedchua&" alt="vincetedchua" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vincetedchua&show_icons=true&locale=en" alt="vincetedchua" /></p>
 
 ## Education: BS Computer Science New Era University 2021 - Present 
 ## Certification/s: CISCO, NEU Webinar, Oracle Kindly Refer below to see more... 
