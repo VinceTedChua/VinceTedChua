@@ -6,12 +6,12 @@ Student Software Engineer Year [2021-Present]
 <p> 📫 How To Reach Me: vince.chua@neu.edu.ph </p>
 <p> 📱Contact: +639762948857 </p>
 
-<h2 Education: BS Computer Science New Era University 2021 - Present </h2>
-<h1 Certification/s: CISCO, NEU Webinar, Oracle Kindly Refer below to see more... </h1>
+## Education: BS Computer Science New Era University 2021 - Present 
+## Certification/s: CISCO, NEU Webinar, Oracle Kindly Refer below to see more... 
 
-<p> 💼 Work Experiences Associate at Dunkin Donuts Dates: March 18, 2019-August 12, 2022 </p>
-🎓 Certification/s Cisco Data Analytics Essentials Course Issued October 7th, 2023 
-🎓 Business Analytics with Excel Issued September 7th, 2023 
+## 💼 Work Experiences Associate at Dunkin Donuts Dates: March 18, 2019-August 12, 2022 
+<p>🎓 Certification/s Cisco Data Analytics Essentials Course Issued October 7th, 2023 </p> 
+<p>🎓 Business Analytics with Excel Issued September 7th, 2023 </p> 
     <p>Link: https://simpli-web.app.link/e/bZpUXV1BTCb </p> 
 <p> 🎓 CICS (Introduction to Data Visualization) -Day 3 Issued: November 25th, 2022</p>
     <p>Link: https://drive.google.com/file/d/1kBX3guMOerx7b6aJtO10D_KKV8hpYgjh/view?usp=sharing </p>
