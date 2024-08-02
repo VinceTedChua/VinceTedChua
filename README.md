@@ -33,7 +33,7 @@ Student Software Engineer Year [2021-Present]
     <p>https://simpli-web.app.link/e/bZpUXV1BTCb</p>
 <p> 🎓 CICS (Introduction to Data Visualization) -Day 3 </p>
     <p>Issued: November 25th, 2022</p>
-    <p>https://drive.google.com/file/d/1kBX3guMOerx7b6aJtO10D_KKV8hpYgjh/view?usp=sharing </p> 
+    https://drive.google.com/file/d/1kBX3guMOerx7b6aJtO10D_KKV8hpYgjh/view?usp=sharing 
 <p> 🎓 Oracle Cloud Data Management 2022 Foundations Certified Associate </p> 
     <p>Issued: November 23th, 2022</p>
     <p>https://catalog-education.oracle.com/pls/certview/sharebadge?id=65A9432863C18C26269D1E6E11CAD20159910CBCD4D3D64597F7DB627310C39B </p>
