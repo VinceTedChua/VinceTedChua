@@ -1,10 +1,10 @@
 ## Hi, I'm Vince Ted Matthew D. Chua 👋🏼
-<h3 align="center">Student Software Engineer Year [2021-Present].</h3>
+Student Software Engineer Year [2021-Present]
 
 ![Chua_Vince_Ted](https://github.com/user-attachments/assets/325793d5-8fd1-4911-8e7d-42ac820a1e1e)
 
-<h2 Email: vince.chua@neu.edu.ph </h2>
-<h2 Contact: +639762948857 </h2>
+Email: vince.chua@neu.edu.ph 
+Contact: +639762948857 
 
 <h2 align="center">Education: BS Computer Science New Era University 2021 - Present
 <h2 align="center">Certification/s: CISCO, NEU Webinar, Oracle Kindly Refer below to see more...
