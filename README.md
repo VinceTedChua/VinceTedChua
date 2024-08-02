@@ -30,10 +30,10 @@ Student Software Engineer Year [2021-Present]
     <p>Issued: October 7th, 2023 </p> 
 <p>🎓 Business Analytics with Excel</p>
     <p>Issued: September 7th, 2023 </p> 
-    <a>Link: https://simpli-web.app.link/e/bZpUXV1BTCb </a> 
+    <p>Link: https://simpli-web.app.link/e/bZpUXV1BTCb </p> 
 <p> 🎓 CICS (Introduction to Data Visualization) -Day 3 </p>
     <p>Issued: November 25th, 2022</p>
-    <p>Link: https://drive.google.com/file/d/1kBX3guMOerx7b6aJtO10D_KKV8hpYgjh/view?usp=sharing </a> 
+    <p>Link: https://drive.google.com/file/d/1kBX3guMOerx7b6aJtO10D_KKV8hpYgjh/view?usp=sharing </p> 
 <p> 🎓 Oracle Cloud Data Management 2022 Foundations Certified Associate </p> 
     <p>Issued: November 23th, 2022</p>
     <p>Link: https://catalog-education.oracle.com/pls/certview/sharebadge?id=65A9432863C18C26269D1E6E11CAD20159910CBCD4D3D64597F7DB627310C39B </p>
