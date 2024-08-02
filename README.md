@@ -56,40 +56,38 @@ Student Software Engineer Year [2021-Present]
 ## Tech Achievements:
 👨‍💻 All of my projects are available at [located in my repository]
 
-  Top 3 Best POWERBI Projects
+## Top 3 Best POWERBI Projects
 <p> 1. PowerBI Soda Report: https://app.powerbi.com/view?r=eyJrIjoiZTg4NDZlMTQtMTMxMS00MGM1LWIwYjgtMDJlZDI4ZGVjZmM5IiwidCI6ImNjM2MwZDdjLTNjOGItNGEyMS04ZDJiLWI1MTcxNDZkMGQ4ZSIsImMiOjZ9  </p>
 <p> 2. PowerBI Snack Report: https://app.powerbi.com/view?r=eyJrIjoiNDQwYTc0ZDItNmNlNC00M2IzLTkwZmMtMmNmZjQyZDdhZGYxIiwidCI6ImNjM2MwZDdjLTNjOGItNGEyMS04ZDJiLWI1MTcxNDZkMGQ4ZSIsImMiOjZ9  </p>
 <p> 3. PowerBI Status Report: https://app.fabric.microsoft.com/view?r=eyJrIjoiNTYyZWNmOWEtOTMxOC00ZGY5LWI3YTQtMDgyZjA5Yzg5MGMzIiwidCI6ImNjM2MwZDdjLTNjOGItNGEyMS04ZDJiLWI1MTcxNDZkMGQ4ZSIsImMiOjZ9  </p>
 
-  Top 5 Best SOFTWARE Engineering Design Pattern
+##  Top 5 Best SOFTWARE Engineering Design Pattern
 <p> 1.  State Pattern https://github.com/VinceTedChua/statePattern.git  </p>
 <p> 2.  Builder Pattern https://github.com/VinceTedChua/builderPattern.git  </p>
 <p> 3.  Strategy Pattern https://github.com/VinceTedChua/strategyPattern.git  </p>
 <p> 4.  Visitor Pattern https://github.com/VinceTedChua/visitorPattern2.git  </p>
 <p> 5.  Solid Principles Pattern https://github.com/VinceTedChua/solidDesignPrinciples.git  </p>
 
-Other accomplishments you achieve in other courses
+## Other accomplishments you achieve in other courses
    <p> Arts and Appreciation: Script Writing / Creativity  </p>
    <p> Social Science: Presentation and Play    </p>
    <p> NSTP: Plants and Preservation of Nature  </p>
 
-<h2 Skill Set\s </h2>
-![CCL111-18_1-BSCS- 2 (NON STEM Grad )_ChuaVinceTed MatthewD _OnlineActivity_01](https://github.com/VinceTedChua/VinceTedChua/assets/142372312/6e7f8912-7e6b-4d2e-97e4-cf36f3611a1c)
-🌱Data Visualization Tools :  
+## 🌱Data Visualization Tools :  
 1. Pentaho
 2. PowerBI Desktop
 3. Tableau Public
    
-🌱Programming Languages: 
+## 🌱Programming Languages: 
 1. Java
 2. BootStrap
 3. HTML
 4. CSS
    
-🌱DBMS
+## 🌱DBMS
 1. DB2
    
-🌱Developer Tools
+## 🌱Developer Tools
 1. Figma
 2. Lucidchart
 3. IntelliJ
