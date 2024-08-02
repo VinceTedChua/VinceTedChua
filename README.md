@@ -93,18 +93,6 @@ Student Software Engineer Year [2021-Present]
 3. IntelliJ
 
 
-
-
-
-
-
-- 📫 How to reach me **vtmdomingochua@gmail.com**
-<img width="296" alt="Email" src="https://github.com/VinceTedChua/VinceTedChua/assets/142372312/3a2656d0-16b5-4a7f-b6ad-8dc3a5e06d4e">
-
-- ⚡ Fun fact **I love photography 📸**
-![IMG_8290](https://github.com/VinceTedChua/VinceTedChua/assets/142372312/762b276b-78f6-4c23-a781-41802172458e)
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/vince ted matthew chua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vince ted matthew chua" height="30" width="40" /></a>
