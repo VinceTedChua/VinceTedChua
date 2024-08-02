@@ -7,7 +7,6 @@
 <h2 Contact: +639762948857 </h2>
 
 <h2 align="center">Education: BS Computer Science New Era University 2021 - Present
-<img width="577" alt="Screenshot 2023-10-14 at 4 38 25 PM" src="https://github.com/VinceTedChua/VinceTedChua/assets/142372312/4ea5daf7-e3cd-4b54-9bc0-058a2861d9e7"> </h2>
 <h2 align="center">Certification/s: CISCO, NEU Webinar, Oracle Kindly Refer below to see more...
 
 - 💼 Work Experiences Associate at Dunkin Donuts Dates: March 18, 2019-August 12, 2022
