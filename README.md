@@ -26,18 +26,35 @@ Student Software Engineer Year [2021-Present]
 
    💼 Work Experiences Associate at Dunkin Donuts 
     <p> Dates: March 18, 2019-August 12, 2022 </p>
-<p>🎓 Certification/s Cisco Data Analytics Essentials Course</p> 
-    <p>Issued: October 7th, 2023 </p> 
+    
+  🎓 Certification/s Cisco Data Analytics Essentials Course
+     <p>Issued: October 7th, 2023 </p> 
     
   🎓 [Business Analytics with Excel](https://simpli-web.app.link/e/bZpUXV1BTCb)
-   <p>Issued: September 7th, 2023 </p> 
+     <p>Issued: September 7th, 2023 </p> 
 
   🎓 [CICS Introduction to Data Visualization Day 3](https://drive.google.com/file/d/1kBX3guMOerx7b6aJtO10D_KKV8hpYgjh/view?usp=sharing)
-  <p>Issued: November 25th, 2022</p>
+     <p>Issued: November 25th, 2022</p>
+  
+  [](url)
+  [](url)
+  [](url)
+  [](url)
+  [](url)
+  [](url)
+  [](url)
+  [](url)
+  [](url)
+  [](url)
+  [](url)
+   <p>Issued: November 25th, 2022</p>
     
 <p> 🎓 Oracle Cloud Data Management 2022 Foundations Certified Associate </p> 
     <p>Issued: November 23th, 2022</p>
     <p>https://catalog-education.oracle.com/pls/certview/sharebadge?id=65A9432863C18C26269D1E6E11CAD20159910CBCD4D3D64597F7DB627310C39B </p>
+
+
+    
 <p>🎓 CICS (Version Control - Tracking and Managing Changes to Software Code) -Day 2  Issued: November 18th, 2022</p>
     <p>https://drive.google.com/file/d/1yN0uSllazH5YKNb2TakQzYXR1TyaWor8/view?usp=sharing  </p>
 <p>🎓 Oracle Cloud Infrastructure 2022 Certified foundations Associate </p>
