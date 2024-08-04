@@ -72,9 +72,9 @@ Student Software Engineer Year [2021-Present]
 
   ## Top 3 Best POWERBI Projects
   
-  <p>📊[PowerBI Soda Report](https://app.powerbi.com/view?r=eyJrIjoiZTg4NDZlMTQtMTMxMS00MGM1LWIwYjgtMDJlZDI4ZGVjZmM5IiwidCI6ImNjM2MwZDdjLTNjOGItNGEyMS04ZDJiLWI1MTcxNDZkMGQ4ZSIsImMiOjZ9)</p>
-  <p>📊[PowerBI Snack Report](https://app.powerbi.com/view?r=eyJrIjoiNDQwYTc0ZDItNmNlNC00M2IzLTkwZmMtMmNmZjQyZDdhZGYxIiwidCI6ImNjM2MwZDdjLTNjOGItNGEyMS04ZDJiLWI1MTcxNDZkMGQ4ZSIsImMiOjZ9)
-  <p>📊[PowerBI Status Report](https://app.fabric.microsoft.com/view?r=eyJrIjoiNTYyZWNmOWEtOTMxOC00ZGY5LWI3YTQtMDgyZjA5Yzg5MGMzIiwidCI6ImNjM2MwZDdjLTNjOGItNGEyMS04ZDJiLWI1MTcxNDZkMGQ4ZSIsImMiOjZ9)
+  📊[PowerBI Soda Report](https://app.powerbi.com/view?r=eyJrIjoiZTg4NDZlMTQtMTMxMS00MGM1LWIwYjgtMDJlZDI4ZGVjZmM5IiwidCI6ImNjM2MwZDdjLTNjOGItNGEyMS04ZDJiLWI1MTcxNDZkMGQ4ZSIsImMiOjZ9) </p>
+  📊[PowerBI Snack Report](https://app.powerbi.com/view?r=eyJrIjoiNDQwYTc0ZDItNmNlNC00M2IzLTkwZmMtMmNmZjQyZDdhZGYxIiwidCI6ImNjM2MwZDdjLTNjOGItNGEyMS04ZDJiLWI1MTcxNDZkMGQ4ZSIsImMiOjZ9) </p>
+  📊[PowerBI Status Report](https://app.fabric.microsoft.com/view?r=eyJrIjoiNTYyZWNmOWEtOTMxOC00ZGY5LWI3YTQtMDgyZjA5Yzg5MGMzIiwidCI6ImNjM2MwZDdjLTNjOGItNGEyMS04ZDJiLWI1MTcxNDZkMGQ4ZSIsImMiOjZ9) </p>
 
   ##  Top 5 Best SOFTWARE Engineering Design Pattern
   💻[State Pattern](https://github.com/VinceTedChua/statePattern.git)
