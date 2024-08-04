@@ -103,9 +103,7 @@ Student Software Engineer Year [2021-Present]
    
 ## 👨🏻‍💻Developer Tools
  * [Figma](https://www.ibm.com/db2)
- * [Lucidchart](https://www.ibm.com/db2)
- * [IntelliJ](https://www.ibm.com/db2)
- * Figma
- * Lucidchart
- * IntelliJ
+ * [Lucidchart](https://www.lucidchart.com/pages/)
+ * [IntelliJ](https://www.jetbrains.com/idea/)
 
+## Chua, Vince Ted Matthew D. Copyright 2024, All Rights Reserved...
