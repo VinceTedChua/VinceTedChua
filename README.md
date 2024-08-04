@@ -36,13 +36,13 @@ Student Software Engineer Year [2021-Present]
   🎓 [CICS Introduction to Data Visualization Day 3](https://drive.google.com/file/d/1kBX3guMOerx7b6aJtO10D_KKV8hpYgjh/view?usp=sharing)
      <p>Issued: November 25th, 2022</p>
   
-  🎓[Oracle Cloud Data Management 2022 Foundations Certified Associate ]((https://catalog-education.oracle.com/pls/certview/sharebadge?id=65A9432863C18C26269D1E6E11CAD20159910CBCD4D3D64597F7DB627310C39B))
+  🎓[Oracle Cloud Data Management 2022 Foundations Certified Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=65A9432863C18C26269D1E6E11CAD20159910CBCD4D3D64597F7DB627310C39B)
      <p>Issued: November 23th, 2022</p>
      
-  🎓[CICS (Version Control - Tracking and Managing Changes to Software Code) -Day 2]((https://drive.google.com/file/d/1yN0uSllazH5YKNb2TakQzYXR1TyaWor8/view?usp=sharing )
+  🎓[CICS (Version Control - Tracking and Managing Changes to Software Code) -Day 2](https://drive.google.com/file/d/1yN0uSllazH5YKNb2TakQzYXR1TyaWor8/view?usp=sharing)
      <p>Issued: November 18th, 2022</p>
      
-  🎓[Oracle Cloud Infrastructure 2022 Certified foundations Associate]((https://catalog-education.oracle.com/pls/certview/sharebadge?id=8F21E9D494F5332C6E0CB5CB4C608B2F0E6BBF76FFD03AF442C124510807BDB9 )
+  🎓[Oracle Cloud Infrastructure 2022 Certified foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=8F21E9D494F5332C6E0CB5CB4C608B2F0E6BBF76FFD03AF442C124510807BDB9)
      <p>Issued: November 13th, 2022</p>
   
   🎓[CICS (Tech 101: Basic Written Communication) -Day 1](https://drive.google.com/file/d/1VKj0xL5BSWP0yY9aV8LlS2KZ7SyZGCUd/view?usp=sharing)
@@ -72,9 +72,9 @@ Student Software Engineer Year [2021-Present]
 
   ## Top 3 Best POWERBI Projects
   
-  📊[PowerBI Soda Report](https://app.powerbi.com/view?r=eyJrIjoiZTg4NDZlMTQtMTMxMS00MGM1LWIwYjgtMDJlZDI4ZGVjZmM5IiwidCI6ImNjM2MwZDdjLTNjOGItNGEyMS04ZDJiLWI1MTcxNDZkMGQ4ZSIsImMiOjZ9)
-  📊[PowerBI Snack Report](https://app.powerbi.com/view?r=eyJrIjoiNDQwYTc0ZDItNmNlNC00M2IzLTkwZmMtMmNmZjQyZDdhZGYxIiwidCI6ImNjM2MwZDdjLTNjOGItNGEyMS04ZDJiLWI1MTcxNDZkMGQ4ZSIsImMiOjZ9)
-  📊[PowerBI Status Report](https://app.fabric.microsoft.com/view?r=eyJrIjoiNTYyZWNmOWEtOTMxOC00ZGY5LWI3YTQtMDgyZjA5Yzg5MGMzIiwidCI6ImNjM2MwZDdjLTNjOGItNGEyMS04ZDJiLWI1MTcxNDZkMGQ4ZSIsImMiOjZ9)
+  <p>📊[PowerBI Soda Report](https://app.powerbi.com/view?r=eyJrIjoiZTg4NDZlMTQtMTMxMS00MGM1LWIwYjgtMDJlZDI4ZGVjZmM5IiwidCI6ImNjM2MwZDdjLTNjOGItNGEyMS04ZDJiLWI1MTcxNDZkMGQ4ZSIsImMiOjZ9)</p>
+  <p>📊[PowerBI Snack Report](https://app.powerbi.com/view?r=eyJrIjoiNDQwYTc0ZDItNmNlNC00M2IzLTkwZmMtMmNmZjQyZDdhZGYxIiwidCI6ImNjM2MwZDdjLTNjOGItNGEyMS04ZDJiLWI1MTcxNDZkMGQ4ZSIsImMiOjZ9)
+  <p>📊[PowerBI Status Report](https://app.fabric.microsoft.com/view?r=eyJrIjoiNTYyZWNmOWEtOTMxOC00ZGY5LWI3YTQtMDgyZjA5Yzg5MGMzIiwidCI6ImNjM2MwZDdjLTNjOGItNGEyMS04ZDJiLWI1MTcxNDZkMGQ4ZSIsImMiOjZ9)
 
   ##  Top 5 Best SOFTWARE Engineering Design Pattern
   💻[State Pattern](https://github.com/VinceTedChua/statePattern.git)
