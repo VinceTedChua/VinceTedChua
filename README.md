@@ -77,15 +77,15 @@ Student Software Engineer Year [2021-Present]
   📊[PowerBI Status Report](https://app.fabric.microsoft.com/view?r=eyJrIjoiNTYyZWNmOWEtOTMxOC00ZGY5LWI3YTQtMDgyZjA5Yzg5MGMzIiwidCI6ImNjM2MwZDdjLTNjOGItNGEyMS04ZDJiLWI1MTcxNDZkMGQ4ZSIsImMiOjZ9) </p>
 
   ##  Top 5 Best SOFTWARE Engineering Design Pattern
-  💻[State Pattern](https://github.com/VinceTedChua/statePattern.git)
-  💻[Builder Pattern](https://github.com/VinceTedChua/builderPattern.git)
-  💻[Strategy Pattern](https://github.com/VinceTedChua/strategyPattern.git)
-  💻[Visitor Pattern](https://github.com/VinceTedChua/visitorPattern2.git)
-  💻[Solid Principles Pattern](https://github.com/VinceTedChua/solidDesignPrinciples.git)
+  💻[State Pattern](https://github.com/VinceTedChua/statePattern.git) </p>
+  💻[Builder Pattern](https://github.com/VinceTedChua/builderPattern.git) </p>
+  💻[Strategy Pattern](https://github.com/VinceTedChua/strategyPattern.git) </p>
+  💻[Visitor Pattern](https://github.com/VinceTedChua/visitorPattern2.git) </p>
+  💻[Solid Principles Pattern](https://github.com/VinceTedChua/solidDesignPrinciples.git) </p>
 
   ## Other accomplishments you achieve in other courses
-  ✍🏻[Arts and Appreciation: Script Writing/Creativity](https://drive.google.com/file/d/1g1w4FPC3ZYP7fSmIYVjRSbfGz2JB6xvE/view?usp=sharing)
-  🌱[NSTP: Plants and Preservation of Nature](https://drive.google.com/file/d/10-bao8ineRGIHKizzdS46I58-kj0PSID/view?usp=sharing)
+  ✍🏻[Arts and Appreciation: Script Writing/Creativity](https://drive.google.com/file/d/1g1w4FPC3ZYP7fSmIYVjRSbfGz2JB6xvE/view?usp=sharing) </p>
+  🌱[NSTP: Plants and Preservation of Nature](https://drive.google.com/file/d/10-bao8ineRGIHKizzdS46I58-kj0PSID/view?usp=sharing) </p>
 
 
 ## 📊Data Visualization Tools :  
