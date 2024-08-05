@@ -26,11 +26,11 @@ Student Software Engineer Year [2021-Present]
 
 ## 📊Data Visualization Tools
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
-![Pentaho](https://img.shields.io/badge/pentaho-F2C811?style=for-the-badge&logo=powerbi&logoColor=red&labelColor=yellow)
-![TABLEAU PUBLIC](https://img.shields.io/badge/tableau-F2C811?style=for-the-badge&logo=powerbi&logoColor=blue) 
+![Pentaho](https://img.shields.io/badge/pentaho-B43F3F?style=for-the-badge&logo=powerbi&logoColor=red&labelColor=yellow)
+![TABLEAU PUBLIC](https://img.shields.io/badge/tableau-6EACDA?style=for-the-badge&logo=powerbi&logoColor=blue) 
 
 ## 📉 DBMS
-![IBM DB2](https://img.shields.io/badge/IBM_DB2-F2C811?style=for-the-badge&logo=powerbi&logoColor=blue) 
+![IBM DB2](https://img.shields.io/badge/IBM_DB2-FFF1DB?style=for-the-badge&logo=powerbi&logoColor=blue) 
 
 ## 🌐 Creativity
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=purple) 
