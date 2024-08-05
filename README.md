@@ -24,8 +24,9 @@ Student Software Engineer Year [2021-Present]
 
 ## 👨🏻‍💻Programming Languages: 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![PHP](https://img.shields.io/badge/bootstrap-%23FFDA76.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 
 ## 📊Data Visualization Tools
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
@@ -33,7 +34,10 @@ Student Software Engineer Year [2021-Present]
 ![TABLEAU PUBLIC](https://img.shields.io/badge/tableau-6EACDA?style=for-the-badge&logo=powerbi&logoColor=blue) 
 
 ## 📉 DBMS
-![IBM DB2](https://img.shields.io/badge/IBM_DB2-FFF1DB?style=for-the-badge&logo=powerbi&logoColor=blue) 
+![IBM DB2](https://img.shields.io/badge/IBM_DB2-FFF1DB?style=for-the-badge&logo=ibmdb2&logoColor=blue) 
+![Cisco Packet Tracer](https://img.shields.io/badge/IBM_DB2-B4D6CD?style=for-the-badge&logo=ciscopacketracer&logoColor=blue) 
+![SQL](https://img.shields.io/badge/IBM_DB2-FFF1DB?style=for-the-badge&logo=sql&logoColor=blue) 
+![Oracle](https://img.shields.io/badge/IBM_DB2-FFF1DB?style=for-the-badge&logo=oracle&logoColor=blue) 
 
 ## 🌐 Creativity
 ![Figma](https://img.shields.io/badge/figma-%23180161.svg?style=for-the-badge&logo=figma&logoColor=purple) 
