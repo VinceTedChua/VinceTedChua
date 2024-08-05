@@ -35,7 +35,7 @@ Student Software Engineer Year [2021-Present]
 
 ## 📉 DBMS
 ![IBM DB2](https://img.shields.io/badge/IBM_DB2-FFF1DB?style=for-the-badge&logo=ibmdb2&logoColor=blue) 
-![Cisco Packet Tracer](https://img.shields.io/badge/CiscoPacketTracer-B4D6CD?style=for-the-badge&logo=ciscopacketracer&logoColor=blue) 
+![Cisco Packet Tracer](https://img.shields.io/badge/CiscoPackeTracer-B4D6CD?style=for-the-badge&logo=ciscopacketracer&logoColor=blue) 
 ![SQL](https://img.shields.io/badge/SQL-FFF1DB?style=for-the-badge&logo=sql&logoColor=blue) 
 ![Oracle](https://img.shields.io/badge/Oracle-FFF1DB?style=for-the-badge&logo=oracle&logoColor=blue) 
 
