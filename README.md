@@ -20,13 +20,13 @@ Student Software Engineer Year [2021-Present]
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vincetedchua&" alt="vincetedchua" /></p>
 
-
 ## [Education: BS Computer Science New Era University 2021 - Present](https://drive.google.com/file/d/13rzvKBhakFlTTd57bSx5P7krGgfOunSr/view?usp=sharing)
 ## Certification/s: CISCO, NEU Webinar, Oracle Kindly Refer below to see more... 
 
   💻[Work Experience, Certificates & Seminars](https://drive.google.com/file/d/1gLfLX3R7MSX6yroKnNwvqjUTt2gcLw5D/view?usp=sharing)
 
   ## Tech Achievements:
+  📊[PowerBI Reports, Different Programming Patterns & Other Skills](https://drive.google.com/file/d/1LDcSXqd8I53I3Zwk-iXp25a3xeyy4jk5/view?usp=sharing)
 
 
 ## 📊Data Visualization Tools :  
