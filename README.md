@@ -1,6 +1,9 @@
 ## Hi, I'm Vince Ted Matthew D. Chua 👋🏼
 Student Software Engineer Year [2021-Present]
 
+---
+[![](https://visitcount.itsvg.in/api?id=VinceTedChua&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ![Chua_Vince_Ted](https://github.com/user-attachments/assets/325793d5-8fd1-4911-8e7d-42ac820a1e1e)
 
 <p> 📫 How To Reach Me: vince.chua@neu.edu.ph </p>
@@ -50,8 +53,6 @@ Student Software Engineer Year [2021-Present]
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=VinceTedChua&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=VinceTedChua&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
