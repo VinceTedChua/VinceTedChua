@@ -6,7 +6,14 @@ Student Software Engineer Year [2021-Present]
 <p> 📫 How To Reach Me: vince.chua@neu.edu.ph </p>
 <p> 📱Contact: +639762948857 </p>
 
+## [Education: BS Computer Science New Era University 2021 - Present](https://drive.google.com/file/d/13rzvKBhakFlTTd57bSx5P7krGgfOunSr/view?usp=sharing)
+## Certification/s: CISCO, NEU Webinar, Oracle Kindly Refer below to see more... 
 
+  💻[Work Experience, Certificates & Seminars](https://drive.google.com/file/d/1gLfLX3R7MSX6yroKnNwvqjUTt2gcLw5D/view?usp=sharing)
+
+  ## Tech Achievements:
+  📊[PowerBI Reports, Different Programming Patterns & Other Skills](https://drive.google.com/file/d/1LDcSXqd8I53I3Zwk-iXp25a3xeyy4jk5/view?usp=sharing)
+  
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/vincetedmatthew.chua/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/devinci_delivers/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vince-chua) 
 
@@ -45,23 +52,6 @@ Student Software Engineer Year [2021-Present]
 ---
 [![](https://visitcount.itsvg.in/api?id=VinceTedChua&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vincetedchua&show_icons=true&locale=en&layout=compact" alt="vincetedchua" /></p> 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vincetedchua&show_icons=true&locale=en" alt="vincetedchua" /></p> 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vincetedchua&" alt="vincetedchua" /></p>
-
-## [Education: BS Computer Science New Era University 2021 - Present](https://drive.google.com/file/d/13rzvKBhakFlTTd57bSx5P7krGgfOunSr/view?usp=sharing)
-## Certification/s: CISCO, NEU Webinar, Oracle Kindly Refer below to see more... 
-
-  💻[Work Experience, Certificates & Seminars](https://drive.google.com/file/d/1gLfLX3R7MSX6yroKnNwvqjUTt2gcLw5D/view?usp=sharing)
-
-  ## Tech Achievements:
-  📊[PowerBI Reports, Different Programming Patterns & Other Skills](https://drive.google.com/file/d/1LDcSXqd8I53I3Zwk-iXp25a3xeyy4jk5/view?usp=sharing)
 
 
 ## Chua, Vince Ted Matthew D. Copyright 2024, All Rights Reserved...
