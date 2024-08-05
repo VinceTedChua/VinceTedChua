@@ -26,6 +26,9 @@ Student Software Engineer Year [2021-Present]
 
   💼[Work Experiences Associate at Dunkin Donuts](https://drive.google.com/file/d/1P06xWvihRDGHvhwCc2H_ppF8TyvyCsfm/view?usp=sharing)
      <p> Dates: March 18, 2019-April 19, 2024</p>
+     
+  🎓[Introduction to Data Science](https://www.credly.com/badges/fc39fa56-2ecb-4434-b7b4-c587c0aadb91/public_url)
+    <p>Issued: October 19th, 2023 </p> 
     
   🎓[Certification/s Cisco Data Analytics Essentials Course](https://drive.google.com/file/d/1I0ZfSjOpJE6wJbNEOYOdZiTbFzQA4pRn/view?usp=sharing)
      <p>Issued: October 7th, 2023 </p> 
