@@ -30,7 +30,7 @@ Student Software Engineer Year [2021-Present]
 ![TABLEAU PUBLIC](https://img.shields.io/badge/tableau-F2C811?style=for-the-badge&logo=powerbi&logoColor=blue) 
 
 ## 📉 DBMS
-![IBM DB2](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=blue) 
+![IBM DB2](https://img.shields.io/badge/IBM_DB2-F2C811?style=for-the-badge&logo=powerbi&logoColor=blue) 
 
 ## 🌐 Creativity
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=purple) 
