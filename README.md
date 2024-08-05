@@ -30,15 +30,21 @@ Student Software Engineer Year [2021-Present]
 
 
 ## 📊Data Visualization Tools :  
- * [Pentaho](https://pentaho.com/) * [PowerBI Desktop](https://app.powerbi.com/singleSignOn?ru=https%3A%2F%2Fapp.powerbi.com%2F%3FnoSignUpCheck%3D1) * [Tableau Public](https://www.tableau.com/)
+ * [Pentaho](https://pentaho.com/)
+ * [PowerBI Desktop](https://app.powerbi.com/singleSignOn?ru=https%3A%2F%2Fapp.powerbi.com%2F%3FnoSignUpCheck%3D1)
+ * [Tableau Public](https://www.tableau.com/)
    
 ## 💻Programming Languages: 
- * [Java](https://www.java.com/en/) * [BootStrap](https://getbootstrap.com/) * [HTML](https://www.w3schools.com/html/)
+ * [Java](https://www.java.com/en/)
+ * [BootStrap](https://getbootstrap.com/)
+ * [HTML](https://www.w3schools.com/html/)
 
 ## 📉DBMS
  * [IBM-DB2](https://www.ibm.com/db2)
    
 ## 👨🏻‍💻Developer Tools
- * [Figma](https://www.ibm.com/db2) * [Lucidchart](https://www.lucidchart.com/pages/) * [IntelliJ](https://www.jetbrains.com/idea/)
+ * [Figma](https://www.ibm.com/db2) 
+ * [Lucidchart](https://www.lucidchart.com/pages/)
+ * [IntelliJ](https://www.jetbrains.com/idea/)
 
 ## Chua, Vince Ted Matthew D. Copyright 2024, All Rights Reserved...
