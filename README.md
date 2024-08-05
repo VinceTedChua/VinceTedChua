@@ -24,7 +24,7 @@ Student Software Engineer Year [2021-Present]
 ## [Education: BS Computer Science New Era University 2021 - Present](https://drive.google.com/file/d/13rzvKBhakFlTTd57bSx5P7krGgfOunSr/view?usp=sharing)
 ## Certification/s: CISCO, NEU Webinar, Oracle Kindly Refer below to see more... 
 
-  💼🎓💻[Work Experience, Certificates & Seminars](https://drive.google.com/file/d/1gLfLX3R7MSX6yroKnNwvqjUTt2gcLw5D/view?usp=sharing)
+  💻[Work Experience, Certificates & Seminars](https://drive.google.com/file/d/1gLfLX3R7MSX6yroKnNwvqjUTt2gcLw5D/view?usp=sharing)
 
   ## Tech Achievements:
 
