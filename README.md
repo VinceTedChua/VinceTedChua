@@ -19,8 +19,8 @@ Student Software Engineer Year [2021-Present]
 
 ## 📊Data Visualization Tools
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
-![Pentaho](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=red) 
-![TABLEAU PUBLIC](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=blue) 
+![Pentaho](https://img.shields.io/badge/pentaho-F2C811?style=for-the-badge&logo=powerbi&logoColor=red) 
+![TABLEAU PUBLIC](https://img.shields.io/badge/tableau-F2C811?style=for-the-badge&logo=powerbi&logoColor=blue) 
 
 ## 📉 DBMS
 ![IBM DB2](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=blue) 
@@ -29,7 +29,7 @@ Student Software Engineer Year [2021-Present]
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=orange) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=blue) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![LucidChart](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=black)
+![LucidChart](https://img.shields.io/badge/LucidChart-%23000000.svg?style=for-the-badge&logo=notion&logoColor=black)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=VinceTedChua&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
